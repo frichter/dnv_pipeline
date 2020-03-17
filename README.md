@@ -2,7 +2,7 @@
 
 Biorxiv doi: coming soon
 
-**Contact:** <a href=felix.richter@icahn.mssm.edu>Felix Richter</a>, Sarah Morton, Hongjian Qi, Alexander Kitaygorodsky, <a href=ys2411@cumc.columbia.edu>Yufeng Shen</a>
+**Contact:** Felix Richter (felix.richter@icahn.mssm.edu), Sarah Morton (sarah.morton@childrens.harvard.edu), Hongjian Qi (hq2130@columbia.edu), Alexander Kitaygorodsky (ak3792@cumc.columbia.edu), Yufeng Shen (ys2411@cumc.columbia.edu)
 
 #### Components
 
